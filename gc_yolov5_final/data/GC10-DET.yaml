@@ -1,0 +1,11 @@
+# 设置数据集的路径
+path: /home/zhengjiwang/my_disk_2/Yolo_v5_experiment/datasets/GC10-DET/ # dataset root dir
+train: train/images
+val: valid/images
+test: test/images
+
+# 分类数量
+nc: 10
+
+# 类别名称
+names: ["3_yueyawan", "9_zhehen", "6_siban", "4_shuiban", "2_hanfeng", "7_yiwu", "5_youban", "8_yahen", "1_chongkong", "10_yaozhed"]

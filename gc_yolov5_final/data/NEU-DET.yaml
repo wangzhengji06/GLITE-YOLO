@@ -1,0 +1,11 @@
+# 设置数据集的路径
+path: /data/Yolo_v5_experiment/datasets/NEU-DET # dataset root dir
+train: train/images
+val: valid/images
+test: test/images
+
+# 分类数量
+nc: 6
+
+# 类别名称
+names: ["crazing", "inclusion", "patches", "pitted_surface", "rolled-in_scale", "scratches"]
