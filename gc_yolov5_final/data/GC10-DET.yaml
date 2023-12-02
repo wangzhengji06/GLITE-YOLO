@@ -1,5 +1,5 @@
 # 设置数据集的路径
-path: /home/zhengjiwang/my_disk_2/Yolo_v5_experiment/datasets/GC10-DET/ # dataset root dir
+path:  GC10-DET    # dataset root dir
 train: train/images
 val: valid/images
 test: test/images

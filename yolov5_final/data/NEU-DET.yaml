@@ -1,5 +1,5 @@
 # 设置数据集的路径
-path: /data/Yolo_v5_experiment/datasets/NEU-DET # dataset root dir
+path: NEU-DET # dataset root dir
 train: train/images
 val: valid/images
 test: test/images
