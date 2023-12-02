@@ -1,0 +1,25 @@
+<annotation>
+	<folder>cr</folder>
+	<filename>img_01_425506400_00018.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2_hanfeng</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1348</xmin>
+			<ymin>571</ymin>
+			<xmax>2048</xmax>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+</annotation>

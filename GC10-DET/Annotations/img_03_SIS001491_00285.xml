@@ -1,0 +1,25 @@
+<annotation>
+	<folder>cr</folder>
+	<filename>img_03_SIS001491_00285.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6_siban</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>103</ymin>
+			<xmax>210</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

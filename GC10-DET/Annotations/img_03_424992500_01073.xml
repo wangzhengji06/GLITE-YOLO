@@ -1,0 +1,25 @@
+<annotation>
+	<folder>cr</folder>
+	<filename>img_03_424992500_01073.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4_shuiban</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>183</ymin>
+			<xmax>246</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>
